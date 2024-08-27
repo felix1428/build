@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Intelista-24/static/css/main.bd6a4d02.css",
+    "main.js": "/Intelista-24/static/js/main.0e6c484f.js",
+    "index.html": "/Intelista-24/index.html",
+    "main.bd6a4d02.css.map": "/Intelista-24/static/css/main.bd6a4d02.css.map",
+    "main.0e6c484f.js.map": "/Intelista-24/static/js/main.0e6c484f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bd6a4d02.css",
+    "static/js/main.0e6c484f.js"
+  ]
+}
